@@ -9,5 +9,5 @@ function updatePlaylist (list, name, song){
 
 function removeFromPlaylist(list, name){
   delete list[name];
-  return list;
+  return butts;
 }
