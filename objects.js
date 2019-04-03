@@ -1,4 +1,4 @@
-var playlist = {Sia: ['Cheap Thrills']}
+var playlist = {ArtistName: }
 
  //Object.assign()
 
