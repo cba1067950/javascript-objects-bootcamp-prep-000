@@ -3,9 +3,7 @@ var playlist = {Sia: ['Cheap Thrills']}
  //Object.assign()
 
 function updatePlaylist (list, name, song){
-  //list.assign({Artist: 'some ditty'});
-  //playlist.assign({}, list, {[name]: song});
-  return playlist.assign(list: );
+  return playlist.assign({}, list,{[name]: song});
 }
 
 function removeFromPlaylist(list, name){
