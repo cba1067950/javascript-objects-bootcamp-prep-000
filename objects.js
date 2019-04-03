@@ -1,4 +1,4 @@
-var playlist = {ArtistName: }
+var playlist = {ArtistName: "songTItle" };
 
  //Object.assign()
 
